@@ -3,7 +3,7 @@
 - Applying Progressive Web Application (PWA) this application enables the user to add expenses and deposits to their budget online or offline. When entering transactions offline, data should populate the total when connected back online.
 
 ### a glimse of the assignment
-Heroku deployment: <a href="https://frozen-tor-03398.herokuapp.com/ " target="_blank"> 
+Heroku deployment(click image to check the deployed application on heroku): <a href="https://frozen-tor-03398.herokuapp.com/ " target="_blank"> 
 ![](public/img/screenshot.PNG)
 
 ### Tech & Package used
