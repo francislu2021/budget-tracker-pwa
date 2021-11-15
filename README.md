@@ -3,8 +3,14 @@
 - Applying Progressive Web Application (PWA) this application enables the user to add expenses and deposits to their budget online or offline. When entering transactions offline, data should populate the total when connected back online.
 
 ### a glimse of the assignment
-Heroku deployment: <a href="" target="_blank"> 
+Heroku deployment: <a href="https://frozen-tor-03398.herokuapp.com/ " target="_blank"> 
 ![](public/img/screenshot.PNG)
+
+### Tech & Package used
+- [Node.js]
+- [Express.js]
+- [MongoDB]
+- [Mongoose]
 
 <h3>Assignment requirements</h3>
 
@@ -19,3 +25,4 @@ WHEN the user inputs an expense or deposit
 THEN they will receive a notification that they have added an expense or deposit
 WHEN the user reestablishes an internet connection
 THEN the deposits or expenses added while they were offline are added to their transaction history and their totals are updated
+
